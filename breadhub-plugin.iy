@@ -1,0 +1,2 @@
+-- Loads the Bread Hub Infinite Yield Plugin
+return loadstring(game:HttpGetAsync('https://secure-cdn.breadhub.cc/iy.lua'),'Bread Hub IY')(...)
